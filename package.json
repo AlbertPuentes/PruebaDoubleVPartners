@@ -1,0 +1,20 @@
+{
+  "name": "pruebaparthers",
+  "version": "1.0.0",
+  "description": "Busca un vuelo Bogotá a Cali ida y regreso",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "keywords": [
+    "Vuelo",
+    "Fecha",
+    "Bogota",
+    "Cali"
+  ],
+  "author": "AlbertoPuentes",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.9.0"
+  }
+}
